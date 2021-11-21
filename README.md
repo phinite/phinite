@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/911430395076177930/911449335491862548/cat.png"
 style="width:100%">
 Hey thanks for noticing me<br>
-i dont have too much on here but check out the ![project](https://github.com/phinite/Koneko) i'm working on now<br>
+i dont have too much on here but check out the ![project](https://github.com/phinite/clexer) i'm working on now<br>
 
  <br>heres what I enjoy using:
   - c
