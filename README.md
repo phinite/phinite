@@ -3,6 +3,7 @@
 style="width:100%">
 Hey thanks for noticing me<br>
 i dont have too much on here but check out the ![project](https://github.com/phinite/clexer) i'm working on now<br>
+here's a ![fun story](https://github.com/phinite/Inifinity-Hotel) to kinda explain what goes on in my head<br>
 
  <br>heres what I enjoy using:
   - c
