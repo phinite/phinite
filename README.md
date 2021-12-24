@@ -2,7 +2,6 @@
 <img src="https://static.tumblr.com/c2dc8bd713c95b535711822a63b255ee/fgc1r4w/BqLn3enax/tumblr_static_moon.jpg"
 style="width:100%">
 Hey thanks for noticing me<br>
-i dont have too much on here but check out the ![project](https://github.com/phinite/clexer) i'm working on now<br>
 here's a ![fun story](https://github.com/phinite/Inifinity-Hotel) to kinda explain what goes on in my head<br>
 
  <br>heres what I enjoy using:
