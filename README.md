@@ -31,7 +31,7 @@ here's a ![story](https://github.com/phinite/Inifinity-Hotel) i wrote (not my or
   - existentialism
 
  <br>a project im currently working on:
-  - a natural language processing system from scratch in c++. (following ![this paper](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) and ![this youtube series](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
+  - a natural language processing system from scratch in c++. (following [this paper](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) and [this youtube series](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
 <!--
 **phinite/phinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
