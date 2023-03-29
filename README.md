@@ -1,6 +1,6 @@
 ## About Me
-<img src="https://static.tumblr.com/c2dc8bd713c95b535711822a63b255ee/fgc1r4w/BqLn3enax/tumblr_static_moon.jpg"
-style="width:100%">
+<img src="https://github.com/phinite/phinite/blob/main/df.png"
+style="width: 100%; object-fit:contain;">
 hey, thanks for noticing me<br>
 here's a ![story](https://github.com/phinite/Inifinity-Hotel) i wrote (not my original idea though) because i thought it would be kinda fun and intersting<br>
 
